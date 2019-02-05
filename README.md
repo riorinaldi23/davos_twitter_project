@@ -1,4 +1,2 @@
 # Davos, WEF 2019: Using Twitter API and Stringr for Text Analysis
-Looked at the recent World Economic Forum Annual Meeting from January 22-25. Because of Twitter API limitations, the tweets received 
-only start from January 25. The analysis includes using regular expressions for data cleaning, creating a word cloud, and basic
-data analysis
+Using Twitter API, I scraped off tweets related to the recent World Economic Forum Annual Meeting from January 22-25. The tweets obtained were sadly limited to 25 January and beyond because of Twitter API limitations. The analysis includes using regular expressions for data cleaning, creating a word cloud and basic data analysis.
